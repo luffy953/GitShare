@@ -7,6 +7,7 @@ public class HelloGit {
 		System.out.println("创建分支");
 		System.out.println("主分支修改!");
 		System.out.println("远程仓库修改!");
+		System.out.println("克隆!");
 	}
 	
 }
