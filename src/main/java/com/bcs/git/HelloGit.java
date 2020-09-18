@@ -3,9 +3,10 @@ package com.bcs.git;
 public class HelloGit {
 	public static void main(String[] args) {
 		System.out.println("Hello Git!");
-		System.out.println("¸üÐÂµÚÒ»°æ±¾!");
-		System.out.println("´´½¨·ÖÖ§");
-		System.out.println("Ö÷·ÖÖ§ÐÞ¸Ä!");
+		System.out.println("æ›´æ–°ç¬¬ä¸€ç‰ˆæœ¬!");
+		System.out.println("åˆ›å»ºåˆ†æ”¯");
+		System.out.println("ä¸»åˆ†æ”¯ä¿®æ”¹!");
+		System.out.println("è¿œç¨‹ä»“åº“ä¿®æ”¹!");
 	}
 	
 }
